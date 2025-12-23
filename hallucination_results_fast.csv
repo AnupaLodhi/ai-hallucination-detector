@@ -1,0 +1,6 @@
+question,correct_answer,ai_answer,Result,Similarity Score
+Who discovered gravity?,Isaac Newton discovered the law of gravity,Albert Einstein discovered gravity,✅ Correct,0.76533496
+What is the capital of France?,Paris is the capital of France,London is the capital of France,✅ Correct,0.79545164
+Who wrote Romeo and Juliet?,William Shakespeare wrote Romeo and Juliet,Christopher Marlowe wrote Romeo and Juliet,✅ Correct,0.748115
+What is the largest planet in our solar system?,Jupiter is the largest planet,Venus is the largest planet,✅ Correct,0.80362004
+When was the Declaration of Independence signed?,The Declaration of Independence was signed in 1776,The Declaration of Independence was signed in 1775,✅ Correct,0.90726984

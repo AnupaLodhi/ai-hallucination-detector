@@ -1,0 +1,19 @@
+# Initialize git (if not already done)
+git init
+
+# Add all files
+git add .
+
+# Commit
+git commit -m "Initial commit: AI Hallucination Detection"
+
+# Add remote (replace with your repo URL)
+git remote add origin https://github.com/yourusername/machine_learning.git
+
+# Push to GitHub
+git push -u origin mainsentence-transformers==5.2.0
+scikit-learn==1.8.0
+pandas==2.3.3
+numpy<2
+torch==2.2.2
+transformers==4.57.3
